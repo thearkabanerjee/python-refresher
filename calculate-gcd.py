@@ -11,3 +11,6 @@ for i in range (1, a+1):
                     factors.append(i)
 
 print (factors[-1])
+
+
+# quite some new way to calculate gcd btw
